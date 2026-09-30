@@ -10,7 +10,7 @@
 
 | Student | Article URL |
 |---|---|
-| [your name] | [paste URL] |
+| Sofxx7 | https://dev.to/sofxx7/building-an-interactive-netflix-catalog-explorer-with-streamlit-and-plotly-jjc |
 
 ## Notes
 

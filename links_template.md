@@ -2,8 +2,8 @@
 
 ## Team project
 
-- Public repository: [paste URL]
-- Public application: [paste URL]
+- Public repository: https://github.com/Sofxx7/netflix-catalog-explorer
+- Public visual report: https://sofxx7.github.io/netflix-catalog-explorer/
 - Public video: [paste URL]
 
 ## Individual articles

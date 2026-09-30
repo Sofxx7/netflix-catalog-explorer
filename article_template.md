@@ -1,12 +1,12 @@
 # Building an Interactive Netflix Catalog Explorer with Streamlit
 
-This is an individual article template. Each team member should rewrite it in
-their own voice and include their own contribution before publishing it.
+This is an individual article template. Rewrite it in your own voice before
+publishing it.
 
 ## Introduction
 
 Interactive dashboards make it easier to move from a large table to a visual
-question. In this project, our team created Netflix Catalog Explorer, an
+question. In this project, I created Netflix Catalog Explorer, an
 interactive Streamlit application that explores a catalog snapshot of movies
 and TV shows.
 
@@ -49,10 +49,10 @@ Video: [insert public video URL]
 
 ## Individual contribution
 
-For this individual article, I contributed by [describe your contribution:
-data preparation, interface design, chart selection, testing, documentation,
-deployment, or video production]. This contribution helped the team connect
-the visual analysis with a reproducible and publicly accessible application.
+I contributed by [describe your contribution: data preparation, interface
+design, chart selection, testing, documentation, deployment, or video
+production]. This work connected the visual analysis with a reproducible and
+publicly accessible application.
 
 ## Conclusion
 

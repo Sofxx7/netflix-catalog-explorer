@@ -48,6 +48,6 @@ are not presented as the current Netflix catalog.
 - [ ] Public repository URL.
 - [ ] Public GitHub Pages report URL.
 - [ ] Evidence of the automated validation and redeployment path.
-- [ ] Individual article URL for each team member.
+- [ ] Individual article URL.
 - [ ] Public video URL, maximum five minutes.
 - [ ] ZIP file containing the links and the required delivery notes.

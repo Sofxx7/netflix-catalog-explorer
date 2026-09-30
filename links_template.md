@@ -1,24 +1,20 @@
-# Activity 01 — Delivery links
+# Activity 01 — Individual delivery links
 
-## Team project
+## Project
 
 - Public repository: https://github.com/Sofxx7/netflix-catalog-explorer
 - Public visual report: https://sofxx7.github.io/netflix-catalog-explorer/
 - Public video: [paste URL]
 
-## Individual articles
+## Article
 
-| Team member | Article URL |
+| Student | Article URL |
 |---|---|
-| [name 1] | [paste URL] |
-| [name 2] | [paste URL] |
-| [name 3] | [paste URL] |
-| [name 4] | [paste URL] |
+| [your name] | [paste URL] |
 
 ## Notes
 
 - The repository contains the dashboard source, dataset, requirements, and
   automated quality workflow.
 - The video is no longer than five minutes.
-- Each article has been rewritten by its author and includes their individual
-  contribution.
+- The article is written and published by the student who submits this ZIP.

@@ -31,10 +31,10 @@ Show the GitHub Actions publication workflow and one successful run.
 uploads it as a Pages artifact, and deploys it to GitHub Pages. A separate
 quality workflow validates the Python application and dataset.”
 
-## 3:45–4:30 — Individual contributions
+## 3:45–4:30 — Personal explanation
 
-Each member briefly states their contribution. Keep this section short so the
-video stays below five minutes.
+Briefly explain your own contribution and what you learned. Keep this section
+short so the video stays below five minutes.
 
 ## 4:30–5:00 — Closing
 

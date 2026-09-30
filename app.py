@@ -237,6 +237,13 @@ st.markdown(
         border: 1px solid #f4d5d5;
         border-radius: 0.75rem;
         padding: 0.75rem;
+        color: #221f1f;
+    }
+    [data-testid="stMetricLabel"] p {
+        color: #765e5e !important;
+    }
+    [data-testid="stMetricValue"] {
+        color: #221f1f !important;
     }
     .catalog-table {
         border-collapse: collapse;

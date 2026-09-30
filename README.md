@@ -21,6 +21,14 @@ requirements.txt. Then run the application with:
 
 The application reads the versioned file at data/netflix_titles.csv.
 
+## Prepare the demonstration video
+
+The captioned MP4 demonstration can be regenerated locally with the optional
+video requirements:
+
+    python -m pip install -r video_requirements.txt
+    python scripts/create_video.py
+
 ## Automated quality check
 
 Every push to main and every pull request runs the GitHub Actions workflow in

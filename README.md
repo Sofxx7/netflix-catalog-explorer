@@ -27,10 +27,13 @@ Every push to main and every pull request runs the GitHub Actions workflow in
 .github/workflows/quality.yml. The workflow installs the dependencies, compiles
 the Python files, and validates the dataset schema and row count.
 
-For cloud publication, the hosting service should be connected to this
-repository and configured to redeploy from the main branch after a successful
-push. This creates a traceable automated path from the public repository to the
-published application.
+The public visual report is published through GitHub Pages by
+.github/workflows/deploy-pages.yml. Every push to main regenerates the Plotly
+report, uploads it as a Pages artifact, and deploys it automatically. This
+creates a traceable path from the public repository to the cloud publication.
+
+The Streamlit version remains available for local execution with streamlit run
+app.py. The GitHub Pages version is the public report used for the delivery.
 
 ## Dataset
 
@@ -43,7 +46,7 @@ are not presented as the current Netflix catalog.
 ## Academic delivery checklist
 
 - [ ] Public repository URL.
-- [ ] Public cloud application URL.
+- [ ] Public GitHub Pages report URL.
 - [ ] Evidence of the automated validation and redeployment path.
 - [ ] Individual article URL for each team member.
 - [ ] Public video URL, maximum five minutes.

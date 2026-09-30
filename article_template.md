@@ -36,14 +36,14 @@ bar charts for countries and genres, and a table with the filtered records.
 
 ## Automation and publication
 
-The repository includes a GitHub Actions workflow. On every push to main or
-pull request, it installs the dependencies, compiles the application, and
-validates the dataset structure. The cloud application is configured to track
-the repository so that new changes can be redeployed from the main branch.
+The repository includes GitHub Actions workflows. The quality workflow
+compiles the application and validates the dataset. The publication workflow
+regenerates the Plotly report and deploys it to GitHub Pages on every push to
+main.
 
 Repository: [insert public repository URL]
 
-Live application: [insert public application URL]
+Live report: [insert public GitHub Pages URL]
 
 Video: [insert public video URL]
 

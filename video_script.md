@@ -25,12 +25,11 @@ selected filters.”
 
 ## 2:45–3:45 — Automation
 
-Show the GitHub Actions workflow and one successful run.
+Show the GitHub Actions publication workflow and one successful run.
 
-“On every push to the main branch or pull request, the workflow installs the
-dependencies, compiles the Python files, and validates the dataset. The
-hosting service tracks the repository so changes can be redeployed from the
-main branch.”
+“On every push to the main branch, the workflow regenerates the Plotly report,
+uploads it as a Pages artifact, and deploys it to GitHub Pages. A separate
+quality workflow validates the Python application and dataset.”
 
 ## 3:45–4:30 — Individual contributions
 

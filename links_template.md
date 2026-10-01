@@ -3,6 +3,7 @@
 ## Project
 
 - Public repository: https://github.com/Sofxx7/netflix-catalog-explorer
+- Public Streamlit app: https://sofx-netflix-catalog-2026.streamlit.app/
 - Public visual report: https://sofxx7.github.io/netflix-catalog-explorer/
 - Public video: [paste URL]
 
